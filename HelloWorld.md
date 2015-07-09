@@ -1,2 +1,1 @@
-https://github.com/lizash/datasciencecoursera.git
-
+https://github.com/lizash/datasciencecoursera/blob/master/HelloWorld.md
