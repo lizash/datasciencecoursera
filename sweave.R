@@ -3,7 +3,7 @@
 \begin{document}
 \SweaveOpts{concordance=TRUE}
 
-This is a Sweave document
+Now this is an updated Sweave document.
 
 
 \end{document}
